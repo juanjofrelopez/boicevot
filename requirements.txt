@@ -1,0 +1,9 @@
+faster-whisper
+SpeechRecognition
+pyaudio
+openai
+psycopg[binary]
+pgvector
+sentence-transformers
+pypdf
+pyttsx3
